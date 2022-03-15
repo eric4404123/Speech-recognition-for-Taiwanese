@@ -1,6 +1,5 @@
 # Tensoeflow speech recognition for Taiwanese
-本實驗以[tensoeflow speech commands](https://www.tensorflow.org/tutorials/audio/simple_audio)為主，搭配以錄製30個台語單詞進行語音辨識## 現行程式所需軟體以及版本
-
+本實驗以[tensoeflow speech commands](https://www.tensorflow.org/tutorials/audio/simple_audio)為主，搭配以錄製30個台語單詞進行語音辨識
 
 ### 所需軟體:
 |軟體名稱|軟體版本|
